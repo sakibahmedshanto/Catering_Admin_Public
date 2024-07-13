@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "694528548354",
+    "project_id": "daffodilcafe-73d7e",
+    "storage_bucket": "daffodilcafe-73d7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694528548354:android:5d049ff026251450df511b",
+        "android_client_info": {
+          "package_name": "com.example.CateringAdmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694528548354-5t7c230mb4quu1p95vj6kl5gei8f5rpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc_ScHDEYWt-yHTnYLc70bchjxTA13CSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694528548354-5t7c230mb4quu1p95vj6kl5gei8f5rpb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "694528548354-2hiaf51p1q8i8sk06djn2enta0p74jfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adminPanel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694528548354:android:ce813ef34592c9dfdf511b",
+        "android_client_info": {
+          "package_name": "com.example.daffodilcatering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694528548354-8p3khhadl9soio2ksk5pv808gsf2ekip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daffodilcatering",
+            "certificate_hash": "bc262e347f389dc63b6a50bcf4491e2ad400dacd"
+          }
+        },
+        {
+          "client_id": "694528548354-5t7c230mb4quu1p95vj6kl5gei8f5rpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc_ScHDEYWt-yHTnYLc70bchjxTA13CSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694528548354-5t7c230mb4quu1p95vj6kl5gei8f5rpb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "694528548354-2hiaf51p1q8i8sk06djn2enta0p74jfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adminPanel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
